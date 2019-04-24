@@ -1,11 +1,11 @@
 {
-  "name": "starter.nodejs",
-  "version": "1.8.0",
-  "description": "Starter kit for NodeJS",
+  "name": "redacto-sever",
+  "version": "0.1.0",
+  "description": "Redacto server",
   "author": "Abraham TEWA",
   "license": "MIT",
-  "homepage": "https://abrahamtewa.github.io/starter.nodejs",
-  "bugs": "https://github.com/AbrahamTewa/starter.nodejs/issues",
+  "homepage": "https://redacto.github.io/redacto-server",
+  "bugs": "https://github.com/redacto/redacto-server/issues",
   "private": true,
   "bin": {
     "hello": "./dist/cli.js"
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AbrahamTewa/starter.nodejs.git"
+    "url": "https://github.com/redacto/redacto-server.git"
   },
   "dependencies": {
     "better-console": "^1.0.1",
